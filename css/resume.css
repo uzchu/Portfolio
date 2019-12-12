@@ -90,7 +90,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: rgb(158, 226, 175);
+  outline-color: rgb(192, 250, 206);
 }
 
 @media (min-width: 992px) {
